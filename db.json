@@ -1,0 +1,39 @@
+{
+  "artisti": [
+    {
+      "id": 1,
+      "nome": "Korg Orzabal",
+      "brani": 3
+    },
+    {
+      "id": 2,
+      "nome": "Pony Hadley",
+      "brani": 2
+    },
+    {
+      "id": 3,
+      "nome": "Bobby Cheppall",
+      "brani": 14
+    }  
+  ],
+  "brani": [
+    {
+      "id": 1,
+      "nome": "When Tears Roll Down",
+      "artista": "Korg Orzabal",
+      "durata": "04:33"
+    },
+    {
+      "id": 2,
+      "nome": "Hold the Line",
+      "artista": "Bobby Cheppall",
+      "durata": "03:56"
+    },
+    {
+      "id": 3,
+      "nome": "Gold",
+      "artista": "Korg Orzabal",
+      "durata": "05:07"
+    }
+  ]
+}
